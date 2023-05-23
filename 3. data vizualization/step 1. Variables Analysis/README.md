@@ -1,2 +1,2 @@
-# Project-Data-VIsualization
-Data Visualization Project
+# Project-Data-Visualization
+step 1. Variables Analysis
