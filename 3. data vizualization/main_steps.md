@@ -1,2 +1,2 @@
-# Project-Data-VIsualization
+# Project-Data-Visualization
 Main steps
