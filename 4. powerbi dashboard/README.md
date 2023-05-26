@@ -10,5 +10,7 @@ Depression&Diabetes:
 Python graphs in PowerBI:
 ![image](https://github.com/ProcopieGabi0112/Project-Data-Visualization/assets/94400577/3246cc74-2469-4bda-9ebf-7313d51458db)
 
+Scatterplot in PowerBI:
+![image](https://github.com/ProcopieGabi0112/Project-Data-Visualization/assets/94400577/42442a01-6fe0-4a3c-9b22-961c97ce4a56)
 
 
