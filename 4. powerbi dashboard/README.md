@@ -2,25 +2,25 @@
 Data Visualization Project
 
 
-- Dead_Alive&disease - 
+- Dead_Alive&disease 
 
 
 Interactive graph to visualize patients condition and impact and correlation of some desease.
 ![image](https://github.com/ProcopieGabi0112/Project-Data-Visualization/assets/94400577/b152632f-2edc-419a-b8a5-f167207f04cb)
 
-- Depression&Diabetes - 
+- Depression&Diabetes 
 
 
 Interactive graph to visualize relation between diabetes and depression.
 ![image](https://github.com/ProcopieGabi0112/Project-Data-Visualization/assets/94400577/78219f00-e372-484b-a86c-8a435c9ec895)
 
-- Python graphs in PowerBI - 
+- Python graphs in PowerBI 
 
 
 Building graphs in PowerBI using Python scripts.
 ![image](https://github.com/ProcopieGabi0112/Project-Data-Visualization/assets/94400577/3246cc74-2469-4bda-9ebf-7313d51458db)
 
-- Scatterplot in PowerBI - 
+- Scatterplot in PowerBI 
 
 
 Interactive scatterplot to visualize correlation between heart rate and respiratory rate. 
